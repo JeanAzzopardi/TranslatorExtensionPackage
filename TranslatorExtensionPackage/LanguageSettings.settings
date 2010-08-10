@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="JeanAzzopardi.TranslatorExtensionPackage" GeneratedClassName="LanguageSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LangFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dutch</Value>
+    </Setting>
+    <Setting Name="LangTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">English</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
